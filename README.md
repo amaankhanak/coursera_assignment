@@ -6,3 +6,6 @@ Deployed at: https://amaankhanakz.github.io/coursera_assignment/module3_assignme
 
 Module 4 assignment
 Deployed at: https://amaankhanakz.github.io/coursera_assignment/module4_assignment/
+
+Module 4 assignment
+Deployed at: https://amaankhanakz.github.io/coursera_assignment/module5_assignment/
